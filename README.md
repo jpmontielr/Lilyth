@@ -4,5 +4,5 @@ It compiles the source, runs the resulting executable to output a .ly file, and 
 You'll get a sheet music pdf with random notes, in the build folder.  I use this to practice sight reading.
 
 There's an example output of this process in the build directory, 
-including the executable, which could be trigger a false positive from the antivirus.
+including the executable, which could trigger a false positive from your antivirus.
 You could of course download just the code folder.
